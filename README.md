@@ -4,7 +4,9 @@ to make starting an npm module project simple.
 Please modify /tools/*.js replacing:
 
 GITHUB_USER_NAME
+
 MODULE_NAME
+
 DOCUMENTATION_BRANCH
 
 These tools will help you change links in your README.md to work with npm or github pages in case where you write
